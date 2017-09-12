@@ -1,0 +1,10 @@
+socket
+把tcp/ip  udp做了一个封装,暴露send recieve的动作
+
+服务端:
+server = socket.socket(AF.INET,sock.SOCK_STREAM)
+    family adrress  地址簇
+server.bind(('localhost',9999))
+server.listen()
+conn,adrr = server.accept()
+

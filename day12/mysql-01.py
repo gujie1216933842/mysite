@@ -10,7 +10,7 @@ cursor = conn.cursor()
 # 执行sql,并且返回受影响的行数
 sql = 'select * from goods'
 effect_row = cursor.execute(sql)
-
+#github上修改测试
 print(cursor.fetchall())
 # print(cursor.fetchone())
 # print(cursor.fetchone())

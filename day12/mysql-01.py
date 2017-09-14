@@ -11,6 +11,8 @@ cursor = conn.cursor()
 sql = 'select * from goods'
 effect_row = cursor.execute(sql)
 #github上修改测试
+
+#ffff
 print(cursor.fetchall())
 print(cursor.fetchone())
 print(cursor.fetchone())

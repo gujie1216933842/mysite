@@ -95,10 +95,10 @@
       <file leaf-file-name="mysql-01.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day12/mysql-01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="378">
+              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
-                <marker date="1505406681183" expanded="true" signature="224:243" ph="select * fro... goods" />
+                <marker date="1505407369360" expanded="true" signature="224:243" ph="select * fro... goods" />
               </folding>
             </state>
           </provider>
@@ -609,7 +609,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1301059" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1019,10 +1019,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day12/mysql-01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="378">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
-            <marker date="1505406681183" expanded="true" signature="224:243" ph="select * fro... goods" />
+            <marker date="1505407369360" expanded="true" signature="224:243" ph="select * fro... goods" />
           </folding>
         </state>
       </provider>

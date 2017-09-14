@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64fafaa6-bd4e-42b4-a1c0-350c5106a918" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day12/mysql-01.py" afterPath="$PROJECT_DIR$/day12/mysql-01.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,10 +96,10 @@
       <file leaf-file-name="mysql-01.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day12/mysql-01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="432">
+              <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
               <folding>
-                <marker date="1505407369360" expanded="true" signature="224:243" ph="select * fro... goods" />
+                <marker date="1505407622057" expanded="true" signature="224:243" ph="select * fro... goods" />
               </folding>
             </state>
           </provider>
@@ -609,7 +610,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1301059" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1019,10 +1020,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day12/mysql-01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="432">
+          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
           <folding>
-            <marker date="1505407369360" expanded="true" signature="224:243" ph="select * fro... goods" />
+            <marker date="1505407622057" expanded="true" signature="224:243" ph="select * fro... goods" />
           </folding>
         </state>
       </provider>

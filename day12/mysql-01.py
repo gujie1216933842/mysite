@@ -13,6 +13,8 @@ effect_row = cursor.execute(sql)
 #github上修改测试
 
 #ffff
+
+#xxxxx
 print(cursor.fetchall())
 print(cursor.fetchone())
 print(cursor.fetchone())

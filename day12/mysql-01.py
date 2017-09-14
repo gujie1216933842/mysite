@@ -19,3 +19,7 @@ print(cursor.fetchall())
 print(cursor.fetchone())
 print(cursor.fetchone())
 print(cursor.fetchone())
+
+print(cursor.fetchone())
+print(cursor.fetchone())
+print(cursor.fetchone())
